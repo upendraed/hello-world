@@ -8,3 +8,4 @@ intellije commit tst
 
 from git to intellij commit
 
+from intellij to git branch
